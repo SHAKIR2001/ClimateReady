@@ -34,7 +34,6 @@ yarn-error.*
 
 # local env files
 # Existing ignores...
-.env
 server/.env
 server/.env.local
 server/.env.*
@@ -43,3 +42,4 @@ server/.env.*
 *.tsbuildinfo
 
 app-example
+config.bat
