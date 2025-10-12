@@ -1,6 +1,5 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
-.vscode/
 
 # Android native build artifacts
 android/.gradle/
@@ -57,3 +56,4 @@ sos-live-tracker-map/
 
 expo-env.d.ts
 # @end expo-cli
+config.bat
